@@ -1,0 +1,31 @@
+Questions:
+
+Time spent:
+Approximately 2 hours
+
+30 minutes for initial design
+1 hour for implementation
+30 minutes for testing and debugging
+
+
+
+
+Most difficult aspects:
+
+Handling date range calculations correctly
+Managing prorated revenue calculations
+Edge cases with indefinite end dates
+
+
+Technical debt to address in next iteration:
+
+
+Add unit tests for edge cases
+Implement input validation
+Add error handling for malformed CSV data
+Improve performance for large datasets
+Add caching for repeated analyses
+Implement parallel processing for large files
+Add logging and monitoring
+Add type checking (TypeScript)
+
